@@ -1,0 +1,5 @@
+root
+ |-- Entity: string (nullable = true)
+ |-- Code: string (nullable = true)
+ |-- Year: integer (nullable = true)
+ |-- Political corruption index (best estimate, aggregate: average): double (nullable = true)

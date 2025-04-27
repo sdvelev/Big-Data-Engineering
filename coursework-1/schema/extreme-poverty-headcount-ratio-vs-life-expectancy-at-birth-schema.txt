@@ -1,0 +1,9 @@
+root
+ |-- Entity: string (nullable = true)
+ |-- Code: string (nullable = true)
+ |-- Year: integer (nullable = true)
+ |-- Life expectancy - Sex: all - Age: 0 - Variant: estimates: double (nullable = true)
+ |-- $2.15 a day - Share of population in poverty: double (nullable = true)
+ |-- 990305-annotations: string (nullable = true)
+ |-- Population (historical): long (nullable = true)
+ |-- World regions according to OWID: string (nullable = true)
